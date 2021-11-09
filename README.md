@@ -5,7 +5,9 @@ Very simple 2D snake game using C++ / Glut.
 references:  
 docs.gl  
 learnopengl.com  
-[YouTtube] TheChernos OpenGl Series  
-[YouTtube] TheChernos Game Engine Series  
-[YouTtube] Sonar Systems OpenGL Series  
+opengl.org  
+stackoverflow.com  
+[Youtube] TheChernos OpenGl Series  
+[Youtube] TheChernos Game Engine Series  
+[Youtube] Sonar Systems OpenGL Series  
 lighthouse3d.com/tutorials/glut-tutorial  
